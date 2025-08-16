@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Luqman!</h1>
 <h3 align="center">I'm a passionate frontend developer from London</h3>
 
-  - 🔭 I’m currently working on [React App for ClearCutTravel](https://www.clearcuttravel.com/)
+  - 🔭 I’m currently working on [React App for ClearCutTravel](https://www.clearcuttravel.com/) as a lead developer 
   - 🌱 I’m currently learning **Frameworks**
   - 👯 I’m looking to collaborate on **IOS (Swift) app projects**
   
