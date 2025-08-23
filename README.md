@@ -40,5 +40,6 @@
 
 ---
 
-📫 Reach me on **LinkedIn @Luqman A*  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luqman-aswad)  
+
 
