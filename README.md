@@ -40,5 +40,5 @@
 
 ---
 
-📫 Reach me at **your email or LinkedIn link**  
+📫 Reach me on **LinkedIn @Luqman A*  
 
