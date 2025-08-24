@@ -34,7 +34,7 @@
 ---
 
 ### 📂 Featured Projects
-- **Travel Booking App** – React-based UI for ClearCutTravel as a lead
+- **Travel Booking App** – React-based UI for ClearCutTravel as a lead frontend dev
 - **Portfolio Website** – Personal portfolio built with React + Vite  
 - **Mobile Notes App** – SwiftUI prototype  
 
