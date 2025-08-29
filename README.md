@@ -37,6 +37,7 @@
 - **Travel Booking App** – React-based UI for ClearCutTravel as a lead frontend dev
 - **Portfolio Website** – Personal portfolio built with React + Vite  
 - **Mobile Notes App** – SwiftUI prototype  
+- **Finance Tracker App** – React App Ui/UX focused app
 
 ---
 
