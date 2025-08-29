@@ -38,6 +38,7 @@
 - **Portfolio Website** – Personal portfolio built with React + Vite  
 - **Mobile Notes App** – SwiftUI prototype  
 - **Finance Tracker App** – React App Ui/UX focused app
+- **Weather App** – React App API focused weather app  
 
 ---
 
