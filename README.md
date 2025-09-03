@@ -4,8 +4,8 @@
 ---
 
 💻 Passionate **Frontend Developer** crafting responsive, accessible, and user-friendly web apps.  
-🎨 Skilled in **UI/UX design** (Figma, Photoshop), delivering **pixel-perfect interfaces** with strong usability.  
-📱 Exploring **mobile development** with **React Native** & **SwiftUI**.  
+🎨 Skilled in **UI/UX design** (Figma, Photoshop), delivering **perfect interfaces** with strong usability.  
+📱 Exploring **iOS development** with **React Native** & **SwiftUI**.  
 
 ---
 
