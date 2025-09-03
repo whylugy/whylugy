@@ -1,47 +1,50 @@
-<h1 align="center">👋 Hello, I'm Luqman</h1>
-<h3 align="center">Frontend Developer | React & UI/UX</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#e63946;">Luqman</span></h1>
+<h3 align="center">✨ Frontend Developer | React • UI/UX Design ✨</h3>
 
-💻 Frontend developer with a focus on building clean, responsive, and user-friendly web apps.  
-🎨 Skilled in UI/UX design (Figma, Photoshop) with experience creating pixel-perfect interfaces.  
-📱 Exploring mobile development with **React Native** and **SwiftUI**.  
+---
+
+💻 Passionate **Frontend Developer** crafting responsive, accessible, and user-friendly web apps.  
+🎨 Skilled in **UI/UX design** (Figma, Photoshop), delivering **pixel-perfect interfaces** with strong usability.  
+📱 Exploring **mobile development** with **React Native** & **SwiftUI**.  
 
 ---
 
 ### 🔨 Current Work
-- Building React projects to refine my skills and showcase modern workflows.  
-- Previously developed for **[ClearCutTravel](https://www.clearcuttravel.com/)** as lead frontend dev.  
+- 🚀 Building modern React projects with **clean UI** and smooth UX.  
+- 🌍 Previously lead frontend dev for **[ClearCutTravel](https://www.clearcuttravel.com/)**.  
 
 ---
 
 ### 🌱 Learning & Exploring
-- Deepening expertise in React ecosystem (Vite, Hooks, Context, Next.js).  
-- Expanding knowledge in mobile (SwiftUI, UIKit).  
+- ⚡ Mastering **React ecosystem** → Vite, Hooks, Context, Next.js.  
+- 📲 Expanding skills in **mobile UI** with SwiftUI & UIKit.  
 
 ---
 
 ### ⚡ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- **Travel Booking App** – React-based UI for ClearCutTravel as a lead frontend dev
-- **Portfolio Website** – Personal portfolio built with React + Vite  
-- **Mobile Notes App** – SwiftUI prototype  
-- **Finance Tracker App** – React App Ui/UX focused app
-- **Weather App** – React App API focused weather app  
+- 🧳 **Travel Booking App** – React-based UI for ClearCutTravel (Lead Frontend Dev)  
+- 🎨 **Portfolio Website** – Built with React + Vite, designed for clean UX  
+- 📝 **Mobile Notes App** – SwiftUI prototype for iOS  
+- 💰 **Finance Tracker** – React app focused on intuitive UI/UX  
+- ☀️ **Weather Dashboard** – React app with API integration  
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luqman-aswad)  
+📫 Let’s connect:  
+👉 [LinkedIn](https://www.linkedin.com/in/luqman-aswad) | 🌐 [Portfolio Website](#)  
 
 
