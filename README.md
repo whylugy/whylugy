@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#e63946;">Luqman</span></h1>
 <h3 align="center">✨ Frontend Developer | React • UI/UX Design ✨</h3>
 
----
-
 💻 Passionate **Frontend Developer** crafting responsive, accessible, and user-friendly web apps.  
 🎨 Skilled in **UI/UX design** (Figma, Photoshop), delivering **perfect interfaces** with strong usability.  
 📱 Exploring **iOS development** with **React Native** & **SwiftUI**.  
