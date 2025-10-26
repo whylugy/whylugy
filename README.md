@@ -44,7 +44,7 @@
 
 ---
 
-📫 Let’s connect:  
-👉 [LinkedIn](https://www.linkedin.com/in/luqman-aswad) | 🌐 [Portfolio Website](#)  
+📫 Let’s connect!:  
+👉 [LinkedIn](https://www.linkedin.com/in/luqman-aswad)
 
 
