@@ -5,19 +5,16 @@
 🎨 Skilled in **UI/UX design** (Figma, Photoshop), delivering **perfect interfaces** with strong usability.  
 📱 Exploring **iOS development** with **React Native** & **SwiftUI**.  
 
----
 
 ### 🔨 Current Work
 - 🚀 Building modern React projects with **clean UI** and smooth UX.  
 - 🌍 Previously lead frontend dev for **[ClearCutTravel](https://www.clearcuttravel.com/)**.  
 
----
 
 ### 🌱 Learning & Exploring
 - ⚡ Mastering **React ecosystem** → Vite, Hooks, Context, Next.js.  
 - 📲 Expanding skills in **mobile UI** with SwiftUI & UIKit.  
 
----
 
 ### ⚡ Tech Stack
 <p align="center">
@@ -31,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>
 </p>
 
----
 
 ### 📂 Featured Projects
 - 🧳 **Travel Booking App** – React-based UI for ClearCutTravel (Lead Frontend Dev)  
