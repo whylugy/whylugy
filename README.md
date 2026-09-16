@@ -1,73 +1,26 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#e63946;">Luqman</span></h1>
+<h1 align="center">Hey, I'm Luqman</h1>
 
-<h3 align="center">☁️ Junior DevOps Engineer | 🚀 Future Senior Platform Engineer</h3>
+<h3 align="center">Junior DevOps Engineer | Platform Engineering</h3>
 
 <p align="center">
-  DevOps engineer with a strong <b>Frontend Development & UI/UX</b> background, focused on building, deploying and automating modern applications.
+  Building on a background in Frontend Development & UI/UX, now focused on the infrastructure, automation and systems behind modern applications.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a **Junior DevOps Engineer** with a background in **Frontend Development and UI/UX Design**.
+I'm a developer with a background in **Frontend Development and UI/UX**, where I worked with technologies such as React, JavaScript, TypeScript and modern web tooling.
 
-My development experience started on the application side, building responsive and user-focused web applications with technologies such as **React, TypeScript and JavaScript**.
+I'm now moving deeper into **DevOps and Platform Engineering**, learning how applications are built, containerised, deployed and operated in real environments.
 
-I'm now focused on the infrastructure and delivery side of software, developing skills across **Linux, Docker, Azure, Terraform, CI/CD and Kubernetes**.
+I'm particularly interested in the engineering behind reliable software delivery, from Linux and Docker to cloud infrastructure, CI/CD, Infrastructure as Code and Kubernetes.
 
-My long-term goal is to become a **Senior Platform Engineer**, specialising in building reliable, automated and scalable platforms that enable development teams to ship software efficiently.
+I prefer learning by building rather than just following tutorials. Most of what I'm learning is being applied to real applications, labs and projects, with a focus on understanding **why things work**, not just getting them to work.
 
-I enjoy working across the entire lifecycle of an application:
+### Technologies
 
-**Build → Containerise → Provision → Deploy → Automate → Monitor → Improve**
-
----
-
-### 🚀 Current Role & Focus
-
-**Junior DevOps Engineer**
-
-Currently developing practical experience across:
-
-* 🐧 Linux & Bash
-* 🐳 Docker & Containerisation
-* ☁️ Microsoft Azure
-* 🏗️ Terraform & Infrastructure as Code
-* ⚙️ CI/CD & GitHub Actions
-* 🔐 Cloud Security & IAM
-* ☸️ Kubernetes & AKS
-* 📊 Monitoring & Observability
-* 🌐 Networking & Troubleshooting
-* 🔧 Git & GitHub
-
-I'm focused on learning through **hands-on projects, infrastructure labs and real application deployments**.
-
----
-
-### 🎯 Career Goal
-
-My goal is to progress from:
-
-```text
-Frontend Developer
-       ↓
-Junior DevOps Engineer
-       ↓
-DevOps Engineer
-       ↓
-Platform Engineer
-       ↓
-Senior Platform Engineer
-```
-
-I want to specialise in building the **internal platforms, infrastructure, automation and tooling** that make software development and deployment faster, safer and more reliable.
-
----
-
-### 🛠️ Technologies
-
-#### ☁️ DevOps & Cloud
+**DevOps & Cloud**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
@@ -80,7 +33,7 @@ I want to specialise in building the **internal platforms, infrastructure, autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-#### 💻 Frontend Development
+**Development**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -92,107 +45,24 @@ I want to specialise in building the **internal platforms, infrastructure, autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 </p>
 
-#### 🎨 Design
+**Design**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
 </p>
 
----
+### What I Build
 
-### 📂 Featured Projects
+I'm interested in the space between **application development and infrastructure**.
 
-#### 🏨 Duule Luxury Hotel
+That includes containerising applications, automating deployments, provisioning cloud infrastructure and building systems that make software easier to deploy and operate.
 
-Modern hotel website and management platform built for a luxury hotel in Jijiga, Ethiopia.
-
-**React • TypeScript • Vite • Tailwind CSS • UI/UX**
-
----
-
-#### 🌍 ClearCutTravel
-
-Previously worked as **Lead Frontend Developer**, contributing to the development of a modern travel booking experience.
-
-**React • JavaScript • UI/UX • APIs**
-
----
-
-#### ⚙️ DevOps & Platform Engineering Projects
-
-Building hands-on projects focused on real-world DevOps and platform engineering practices.
-
-Current areas include:
-
-* 🐧 Linux server administration
-* 🐳 Containerising applications with Docker
-* ☁️ Deploying applications to Azure
-* 🏗️ Provisioning infrastructure with Terraform
-* ⚙️ Building CI/CD pipelines
-* ☸️ Deploying workloads to Kubernetes / AKS
-* 🔐 Implementing cloud security and access controls
-* 📊 Monitoring infrastructure and applications
-* 🔧 Automating repetitive operational tasks
-
----
-
-### 📚 Current Learning Path
-
-```text
-Linux & Networking
-        ↓
-Docker & Containers
-        ↓
-Azure
-        ↓
-Terraform
-        ↓
-CI/CD
-        ↓
-Kubernetes
-        ↓
-Monitoring & Observability
-        ↓
-Platform Engineering
-```
-
-I'm documenting my progress through practical projects, labs and infrastructure experiments.
-
----
-
-### 🏗️ What I'm Working Towards
-
-My ultimate focus is **Platform Engineering**.
-
-I want to build platforms that abstract away infrastructure complexity for developers while maintaining strong foundations around:
-
-* Infrastructure as Code
-* Automation
-* Developer Experience
-* Reliability
-* Security
-* Scalability
-* Observability
-* Self-service deployment
-* Internal Developer Platforms
-
----
-
-### 📈 2026 → 2030
-
-**2026** → Build strong DevOps foundations
-**2027** → Grow into a confident DevOps Engineer
-**2028** → Transition deeper into Platform Engineering
-**2029+** → Develop toward Senior Platform Engineer
-
----
+My frontend background gives me a useful perspective on the other side of the stack, and I'm now building the infrastructure knowledge to go with it.
 
 ### 🤝 Let's Connect
 
-I'm interested in **DevOps, Cloud Engineering, Platform Engineering, Developer Experience and modern infrastructure**.
+I'm always interested in connecting with developers and engineers working across **DevOps, Cloud, Platform Engineering and modern infrastructure**.
 
-📫 **LinkedIn:** [Luqman Aswad](https://www.linkedin.com/in/luqman-aswad)
-
-⭐ Explore my repositories to follow my journey from DevOps into Platform Engineering.
+📫 [LinkedIn](https://www.linkedin.com/in/luqman-aswad)
 
